@@ -10,7 +10,7 @@ I'm a passionate developer with expertise in **Full-Stack Development**, **Data 
 - 🌱 Learning advanced **Cloud Security** with **GCP** and **Terraform**
 - 👯 Looking to collaborate on **Web Development** and **Machine Learning** projects
 - 💬 Ask me about **JavaScript**, **Python**, **Java**, **Data Science**, or **Cloud Security**
-- 📫 Reach me at: **[Your Email]** <!-- Replace with actual email -->
+- 📫 Reach me at: **[sammetaakhilsai@gmail.com]** <!-- Replace with actual email -->
 - ⚡ Fun fact: I enjoy creating tools that simplify complex problems!
 
 ## 🛠️ Tech Stack & Skills
